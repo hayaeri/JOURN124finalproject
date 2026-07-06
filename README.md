@@ -7,7 +7,9 @@ To analyze the data, I imported the anonymnized survey responses into Google She
 
 For my first analysis, I created a pivot table with age group as the row category and cups of coffee per day as the value. I summarized the cups per day column by average in order to compare reported coffee consumption across age groups. This allowed me to see whether younger and older respondents reported different daily coffee habits. The pivot table showed that average coffee consumption generally increased with age. Respondents under 18 reported the lowest average daily coffee intake, while respondents in the 55–64 the highest averages. 
 
+
 ![Bar chart showing average cups of coffee per day by age group. Respondents ages 55–64 reported the highest average coffee consumption at about 2.19 cups per day](CoffeeConsumptionPeaksAmongAges.png)
+
 
 
 I also compared race/ethnicity with preferred coffee strength to see whether different respondent groups showed different patterns in how strong they like their coffee. Since the number of participants in each race/ethnicity group was different, I converted the results into percentages instead of only using raw counts, which made the groups easier to compare more fairly. The following is the percentage pivot table that I made myself, using the equation, 	`(Number of respondents in one ethnicity/race group who chose a specific coffee strength ÷ Total number of respondents in that ethnicity/race group) × 100` for each percentage in a cell. Refer to the following.
@@ -22,6 +24,14 @@ Overall, the chart suggests that most groups preferred coffee that was either me
 
 
 ![100% stacked bar chart comparing preferred coffee strength by race/ethnicity among survey respondents](CoffeeStrengthPreferencesAreMostlyMediumorSomewhatStrongAcrossGroups.png)
+
+
+I felt that it would be easier to analyze if I convered  coffee strength preferences into a 1–5 scale (weak = 1 , somewhat light = 2, medium = 3, somewhat strong = 4, very storng = 5) the pivot table shows that all age groups preferred coffee that was somewhat strong on average. Respondents under 18 had the lowest average strength preference, while respondents ages 35–44 and 55–64 had the highest. It is interesting to see that preferred coffee strength does not change dramatically by age, but there is a slight pattern where middle-aged respondents preferred somewhat stronger coffee than the youngest and oldest groups. The following is the pivot table that I first made. 
+
+
+
+
+
 
 ## Ending Summary, Ethical Concerns, and Reporting Process 
 
