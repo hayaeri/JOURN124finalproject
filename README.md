@@ -10,7 +10,16 @@ For my first analysis, I created a pivot table with age group as the row categor
 ![Bar chart showing average cups of coffee per day by age group. Respondents ages 55–64 reported the highest average coffee consumption at about 2.19 cups per day](CoffeeConsumptionPeaksAmongAges.png)
 
 
-I also compared race/ethnicity with preferred coffee strength to see whether different respondent groups showed different patterns in how strong they like their coffee. Overall, the chart suggests that most groups preferred coffee that was either medium or somewhat strong. Hispanic/Latino respondents leaned more toward medium coffee, while White/Caucasian respondents had a slightly larger share choosing somewhat strong coffee. 
+I also compared race/ethnicity with preferred coffee strength to see whether different respondent groups showed different patterns in how strong they like their coffee. Since the number of participants in each race/ethnicity group was different, I converted the results into percentages instead of only using raw counts, which made the groups easier to compare more fairly. The following is the percentage pivot table that I made myself, using the equation, 	`(Number of respondents in one ethnicity/race group who chose a specific coffee strength ÷ Total number of respondents in that ethnicity/race group) × 100` for each percentage in a cell. Refer to the following.
+
+
+![Percentage pivot table that I made.](Screenshotttt.png)
+
+
+
+
+Overall, the chart suggests that most groups preferred coffee that was either medium or somewhat strong. Hispanic/Latino respondents leaned more toward medium coffee, while White/Caucasian respondents had a slightly larger share choosing somewhat strong coffee.
+
 
 ![100% stacked bar chart comparing preferred coffee strength by race/ethnicity among survey respondents](CoffeeStrengthPreferencesAreMostlyMediumorSomewhatStrongAcrossGroups.png)
 
