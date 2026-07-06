@@ -37,6 +37,13 @@ I felt that it would be easier to analyze if I convered  coffee strength prefere
 
 
 
+The following is the table that I have made based on the pivot table above.
+![Table showing average preferred coffee strength by age group on a 1-5 scale](CoffeeStrengtthPeferencesAreSimilarAcrossAgeGroups.png)
+
+
+
+
+
 
 
 
