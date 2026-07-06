@@ -28,7 +28,14 @@ Overall, the chart suggests that most groups preferred coffee that was either me
 
 I felt that it would be easier to analyze if I convered  coffee strength preferences into a 1–5 scale (weak = 1 , somewhat light = 2, medium = 3, somewhat strong = 4, very storng = 5) the pivot table shows that all age groups preferred coffee that was somewhat strong on average. Respondents under 18 had the lowest average strength preference, while respondents ages 35–44 and 55–64 had the highest. It is interesting to see that preferred coffee strength does not change dramatically by age, but there is a slight pattern where middle-aged respondents preferred somewhat stronger coffee than the youngest and oldest groups. The following is the pivot table that I first made. 
 
+
+
+
 ![Pivot table showing average preferred coffee strength by age group on a 1–5 scale, where 1 means weak and 5 means very strong. ](pivottable.png)
+
+
+
+
 
 
 
